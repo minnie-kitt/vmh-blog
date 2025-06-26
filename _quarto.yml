@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "A Blog About Veterinarian Mental Well-being"
+  navbar:
+    right:
+      - text: About the Author
+        href: https://minnie-kitt.github.io/
+      - href: about.qmd
+        text: About the Blog
+format:
+  html:
+    theme: pulse
+    css: styles.css
+
+editor: visual
+

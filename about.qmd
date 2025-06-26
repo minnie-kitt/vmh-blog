@@ -1,0 +1,7 @@
+---
+title: "About The Blog"
+about:
+  template: jolla
+---
+
+This blog was started in June 2025 as a means of breaking down findings from [my thesis](https://hdl.handle.net/10214/29012), into bite-sized chunks of information.
