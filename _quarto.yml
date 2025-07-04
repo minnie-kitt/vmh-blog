@@ -3,6 +3,8 @@ project:
   output-dir: docs
   
 website:
+  page-footer: 
+    center: "Copyright 2025, Tipsarp Kittisiam" 
   title: "A Blog About Veterinarian Mental Well-being"
   navbar:
     right:
