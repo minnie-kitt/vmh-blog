@@ -13,11 +13,13 @@ Veterinary medicine is an [undeniably emotional profession](https://doi.org/10.1
 
 In 2022-2023, I interviewed 21 early-career veterinarians in Canada, asking them about emotional experiences in their clinical practice as part of my doctoral thesis research, now published as the article, ["A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians"](https://doi.org/10.1002/vetr.5599).
 
-"Veterinary Feelings" is a [series](https://minnie-kitt.github.io/vmh-blog/#category=Veterinary%20Feelings) of blog posts which I translate the findings from this article, into a less academic and more reader-friendly experience
+"Veterinary Feelings" is a [series](https://minnie-kitt.github.io/vmh-blog/#category=Veterinary%20Feelings) of blog posts where I translate the findings from this article into a less academic and more reader-friendly experience.
+
+------------------------------------------------------------------------
 
 ## Part 1: The Emotional Toll of Client Interactions
 
-In this study, I discovered three key findings. The first, which I wanted to share in this blog post, was that…
+In this study, I discovered that…
 
 ### Client interactions are a huge emotional toll on veterinarians
 
@@ -25,7 +27,7 @@ Surprisingly — *or perhaps* [*unsurprisingly*](https://doi.org/10.1108/IJWHM-0
 
 But when we dig deeper into the root of why talking with clients can be so stressful, we can consider that there may be **internal** influences (the veterinarian’s thoughts and feelings) and **external** influences (the clients’ actions).
 
-### On the one hand, clients can be [uncivil](https://doi.org/10.1002/vetr.1078) or *even* straight-up abusive…
+#### On the one hand, clients can be [uncivil](https://doi.org/10.1002/vetr.1078) or *even* straight-up abusive…
 
 These often follow situations where animals were unstable, critically ill, and/or had poor prognoses. As you can imagine, unpleasant emotions tend to build up in these situations. And, often, clients have nowhere to direct them except at the veterinarian.
 
@@ -35,7 +37,7 @@ As one veterinarian explained, there are so many non-negotiable costs that go in
 
 Many veterinarians described being **verbally abused, threatened, and accused by clients** using phrases such as “*you just want my dog to die, then.”* In one extreme example, the threats escalated to the point where police had to escort the client out of the clinic, creating a long-term sense of fear and emotional trauma for the veterinarian involved.
 
-### As terrible as clients can be, it’s undeniable that the veterinarians’ own thoughts and feelings contribute to the emotional distress as well.
+#### As terrible as clients can be, it’s undeniable that the veterinarians’ own thoughts and feelings contribute to the emotional distress as well.
 
 Many of those accusations made by clients were also layered with an attack on the veterinarian’s character or motivation, such as “*you obviously don’t care if you’re gonna refuse treatment because I can’t pay for it.*”
 
@@ -43,7 +45,7 @@ These attacks can feel especially harmful to veterinarians whose careers are an 
 
 For those at the start of their career, it can be especially hurtful. One veterinarian said, *“When I was a little baby vet, I really took that to heart.”* This was a tough time with tough feelings, with many sharing feelings of stress, fear, and self-doubt.
 
-### New veterinarians are also faced with some additional challenges that they must overcome.
+#### New veterinarians are also faced with some additional challenges that they must overcome.
 
 Some initially found it difficult to find the sweet spot in communicating the severity and urgency of a pet’s condition. They can’t be too blunt, because it may come across as *heartless.* But, they can’t sugarcoat it too much, or the client may think that it’s not that serious.
 
@@ -51,12 +53,8 @@ For some, translating big medical jargon into lay terms was also challenging— 
 
 Lastly, many early-career vets noticed feeling *doubted* or *criticized* when clients perceived them as *the new vet.* For some, it shifts their frame of thinking, and they feel the need to prove themselves. This could also compromise the quality of care, as the focus is now shifted away from treating the animal.
 
-### Overall, *certain* client interactions caused huge emotional distress for veterinarians...
+#### Overall, *certain* client interactions caused huge emotional distress for veterinarians...
 
 especially, for vets whom being a veterinarian is an integral part of their identity and vets at the beginning of their careers, who have extra hurdles to overcome.
 
 The context-specific results provide great insight into the emotional toll of client interactions on veterinarians, and perhaps may even be validating to those who have experienced something similar.
-
-------------------------------------------------------------------------
-
-*See you next week for Part 2!*

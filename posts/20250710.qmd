@@ -1,0 +1,74 @@
+---
+title: "Veterinary Feelings (2/3)"
+author: Tipsarp Kittisiam
+description: "What Feelings?"
+date: "7/10/2025"
+categories:
+  - Veterinary Feelings
+---
+
+# Veterinary Feelings
+
+Veterinary medicine is an [undeniably emotional profession](https://doi.org/10.1177/0891241611435099). Veterinarians are subject to emotional distress on a regular basis, whether that is their own emotions —*perhaps brought by the inevitable failure to save a patient—* or the clients’ emotions, such as losing a beloved pet. With this constant exposure to extremely emotional situations, it’s no wonder that many veterinarians experience [empathic distress](https://doi.org/10.1016/B0-08-043076-7/01739-3), eventually leading to [burnout](https://doi.org/10.1080/00480169.2019.1669504) and, in some cases, leaving the profession.
+
+In 2022-2023, I interviewed 21 early-career veterinarians in Canada, asking them about emotional experiences in their clinical practice as part of my doctoral thesis research, now published as the article, ["A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians"](https://doi.org/10.1002/vetr.5599).
+
+"Veterinary Feelings" is a [series](https://minnie-kitt.github.io/vmh-blog/#category=Veterinary%20Feelings) of blog posts where I translate the findings from this article into a less academic and more reader-friendly experience.
+
+------------------------------------------------------------------------
+
+## Part 2: What Feelings?
+
+Previously, I shared how certain [client interactions](/posts/20250704.qmd) can take a toll on veterinarians’ emotions. In this post, I wanted to pivot our focus onto what veterinarians in my research had to say about their own emotions…
+
+Most veterinarians that I interviewed were relatively self-aware, in that they recognized their [emotional comfort zone](https://pmc.ncbi.nlm.nih.gov/articles/PMC6973202/), describing their stoicism as being “*a rock*” for clients to lean on or “*an emotional sponge*” (soaking up clients’ emotions).
+
+For some, this awareness also comes with the realization of its pitfalls. As one veterinarian explained, *"If you’re a sponge and you absorb it all, then you’re going to feel like trash at the end of the day."*
+
+Many also noticed the [negativity bias](https://positivepsychology.com/3-steps-negativity-bias/) they held, especially when it comes to client interactions. It was easier to recall the tough cases and “*bad*” outcomes, despite there being no shortage of the good ones.
+
+#### “I don’t know what I felt…”
+
+However, in contrast to the lengthy discussions about emotional situations and clients’ emotions, many veterinarians were stumped when it came to naming what *they* felt.
+
+Responses like “*I don’t know what I felt*,” or something to that effect, were relatively common. And, honestly, it wasn’t that unexpected to me since…
+
+#### Veterinarians likely don’t have the time (or space) to process what they feel at work.
+
+Veterinary clinics were described as “*emotional roller coasters*” where veterinarians went from a puppy appointment, then, a euthanasia, with little to no time in between.
+
+This leads many veterinarians to “*brush their emotions under the rug and move on”* and rely on this strategy to get them through the day.
+
+With the [clients’ heightened emotions](/posts/20250704.qmd) during appointments, many veterinarians felt the need to adjust how they express their emotions according to the situation. 
+
+If clients come in with overwhelming stress, veteinarians make an extra effort to appear calmer, or *vice versa*. If they come in with a serious emergency that they brush off, veterinarians try to professionally express their emotions to convey the urgency of the situation.
+
+#### As a result, veterinarians are often put in a position where their emotions are a second priority compared to the clients.
+
+Many interviewees described their feelings as “*an afterthought*”, “*peripheral*”, and “*not important*” at work, and they believed this was a necessary part of practising veterinary medicine.
+
+#### Many also felt there was a stigma associated with expressing their emotions as a veterinarian.
+
+Some were taught, as vet students, that it was unprofessional to cry at work, and carried that belief with them into their early careers.
+
+Of course, not all agree with this belief, as one veterinarian shared that it felt “*completely appropriate for them to mourn the loss of a patient they loved*” alongside the client.
+
+So, it’s not entirely surprising that many veterinarians aren’t able to process their uncomfortable emotions at work, since…
+
+-   They’re constantly being bombarded with clients’ emotions (and possibly, colleagues’ emotions).
+
+-   They don’t have time — imagine having \< 5 minutes to run around between appointments. That’s barely a potty break.
+
+-   They may not have the space — the perceived stigma at work, potentially eliminates the workplace as an option to debrief among those who share similar struggles
+
+Understandably, many veterinarians also had a tendency to avoid processing their emotions after many consecutive days of long, exhausting, 12-hour shifts, until they noticed the *boxed-up emotions* start to spill over into their home lives.
+
+#### So, veterinarians had to deliberately *make time* to process their emotions…
+
+Veterinarians who were able to name what they felt in the interviews shared that they had *retrospectively* reflected and processed their feelings after those events, meaning they had to *actively* *make time* to sit with these uncomfortable feelings outside of their work hours, perhaps repeatedly, in order to better understand them.
+
+For some, this meant talking to a trained professional, like **a counsellor or therapist**. For others, it was talking it out with their friends and family, or even ruminating on it by themselves while on a bike ride:
+
+> *"I would go on a really long bike ride. And just kind of like, let my brain think about whatever it wanted to think about. And if it kept coming back to like a specific case, then I was like, ‘okay, I clearly—like I’m not done digesting through that’."*
+
+As beneficial as it is for veterinarians to set aside time to process the uncomfortable emotions that come with the job, it is undeniable that the systems that contribute to overwork *also* contribute to the overwhelming number of appointments and the lack of time between them, perpetuating a vicious cycle of overworking, burnout, and attrition. And, it can not be solely up to the individual to fix an issue that is largely systemic.
