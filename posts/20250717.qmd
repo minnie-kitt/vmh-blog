@@ -1,0 +1,81 @@
+---
+title: "Emotional Intelligence"
+author: Tipsarp Kittisiam
+description: "Veterinary Feelings (3/3)"
+date: "7/17/2025"
+categories:
+  - Veterinary Feelings
+---
+
+# Veterinary Feelings
+
+Veterinary medicine is an [undeniably emotional profession](https://doi.org/10.1177/0891241611435099). Veterinarians are subject to emotional distress on a regular basis, whether that is their own emotions—*perhaps brought by the inevitable failure to save a patient—* or the clients’ emotions, from losing a beloved pet. With this constant exposure to extremely emotional situations, it’s no wonder that many veterinarians experience [empathic distress](https://doi.org/10.1016/B0-08-043076-7/01739-3), eventually leading to [burnout](https://doi.org/10.1080/00480169.2019.1669504) and, in some cases, leaving the profession.
+
+In 2022-2023, I interviewed 21 early-career veterinarians in Canada, asking them about emotional experiences in their clinical practice as part of my doctoral thesis research, now published as the article, ["A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians"](https://doi.org/10.1002/vetr.5599).
+
+"Veterinary Feelings" is a [series](https://minnie-kitt.github.io/vmh-blog/#category=Veterinary%20Feelings) of blog posts where I translate the findings from this article into a less academic and more reader-friendly experience.
+
+------------------------------------------------------------------------
+
+# Emotional Intelligence
+
+Emotional Intelligence is, *simply put*, how proficient you are at using a set of skills to…
+
+-   Understand others’ emotions
+-   Influence others’ emotions
+
+*and*
+
+-   Understand your own emotions
+-   Manage your own emotions
+
+So, after giving the interviewees a brief description of emotional intelligence and discussing it, I learned that most participants understood and agreed that emotional intelligence was a skill (meaning it can be taught and trained to improve), and that it was extremely relevant to clinical practice.
+
+Some even believed it made them “*a better veterinarian.*”
+
+## “Different people need different things.”
+
+*Compassion, Understanding,* and *Empathy* were crucial to communicating and connecting with clients and supporting them in highly emotional situations.
+
+Many veterinarians I know self-identify as very empathetic people.
+
+[Empathy](https://pmc.ncbi.nlm.nih.gov/articles/PMC5513638/#section3-2374373517699267) can be extremely helpful in understanding and managing clients’ heightened emotions.
+
+Many veterinarians shared how much they appreciated their ability to understand clients’ emotions and needs, since it also led to providing better care for their clients’ pets.
+
+Veterinary schools in Canada teach skills relating to client communication, such as *reading* clients’ emotions, so it’s no surprise that many of the discussions we had around emotional intelligence were associated with client communication training.
+
+Some interviewees also showed appreciation for the respective client communication courses in their schools and linked their ability to understand clients with the communication labs/rotations, where they were able to practice these skills in a safe environment.
+
+## “*I’m honestly not the most emotionally intelligent person...*”
+
+Recognizing the highly emotional nature of veterinary work, many agreed that being more proficient in emotional intelligence would be beneficial to their work.
+
+Not only in better understanding clients’ emotions, but also in understanding how their own emotions can surface at work.
+
+Despite many veterinarians self-describing themselves as “*not the most emotionally intelligent person*”, their understanding of how their emotions affect their work paints an entirely different picture.
+
+For instance, as a veterinarian, regulating (or failing to regulate) your emotions can influence your clinical work and reflect on your interactions with colleagues.
+
+Understanding your emotions can also benefit your mental well-being, since it can help you [gain insight into your feelings](https://positivepsychology.com/understanding-emotions/#the-important-role-of-negative-emotions) and uncover any hidden motivations behind them.
+
+## Veterinarians in this study were more proficient in understanding and managing clients’ emotions than their own.
+
+This is not an entirely unique phenomenon since [healthcare workers](https://www.frontiersin.org/journals/sociology/articles/10.3389/fsoc.2021.640384/full) tend to focus more on the patients’ emotions in the provision of care.
+
+Frankly, as a veterinarian, I would focus more on clients’ emotions, too, considering [how stressful they can be](/posts/20250704.qmd). Not to mention, [it’s an expected part of the job](https://doi.org/10.1177/089124161143509), and I’ve been trained to do so in clinical communications courses.
+
+On the other hand, I’ve never been trained to regulate my own emotions— *even worse*, I’ve been told that it’s [unprofessional for me to express my emotions at work](/posts/20250710.qmd).
+
+So, in believing all of that, it would be much more effective for me to just shove my emotions away and deal with them later. (*Which I may or may not do*…)
+
+And the emotional intelligence proficiencies are just a reflection of that.
+
+As we know, emotional intelligence is a set of skills that can be improved upon. And, the veterinarians in this study graciously shared some ways they used to improve their skills:
+
+-   Self-reflection with personal support circle (partner, friends, family)
+-   Self-reflection with professional support circle (colleagues, mentor)
+-   Taking relevant CE or wellness workshops
+-   Counselling or therapy
+
+If you are a veterinarian (or know someone who is a veterinarian) who can relate to the findings presented in this series, I hope you’ve found this enlightening or affirming of your experience.

@@ -1,7 +1,7 @@
 ---
-title: "Veterinary Feelings (2/3)"
+title: "What Feelings?"
 author: Tipsarp Kittisiam
-description: "What Feelings?"
+description: "Veterinary Feelings (2/3)"
 date: "7/10/2025"
 categories:
   - Veterinary Feelings
@@ -9,7 +9,7 @@ categories:
 
 # Veterinary Feelings
 
-Veterinary medicine is an [undeniably emotional profession](https://doi.org/10.1177/0891241611435099). Veterinarians are subject to emotional distress on a regular basis, whether that is their own emotions —*perhaps brought by the inevitable failure to save a patient—* or the clients’ emotions, such as losing a beloved pet. With this constant exposure to extremely emotional situations, it’s no wonder that many veterinarians experience [empathic distress](https://doi.org/10.1016/B0-08-043076-7/01739-3), eventually leading to [burnout](https://doi.org/10.1080/00480169.2019.1669504) and, in some cases, leaving the profession.
+Veterinary medicine is an [undeniably emotional profession](https://doi.org/10.1177/0891241611435099). Veterinarians are subject to emotional distress on a regular basis, whether that is their own emotions—*perhaps brought by the inevitable failure to save a patient—* or the clients’ emotions, from losing a beloved pet. With this constant exposure to extremely emotional situations, it’s no wonder that many veterinarians experience [empathic distress](https://doi.org/10.1016/B0-08-043076-7/01739-3), eventually leading to [burnout](https://doi.org/10.1080/00480169.2019.1669504) and, in some cases, leaving the profession.
 
 In 2022-2023, I interviewed 21 early-career veterinarians in Canada, asking them about emotional experiences in their clinical practice as part of my doctoral thesis research, now published as the article, ["A qualitative exploration of the emotional experiences and applications of emotional intelligence in early-career veterinarians"](https://doi.org/10.1002/vetr.5599).
 
@@ -17,7 +17,7 @@ In 2022-2023, I interviewed 21 early-career veterinarians in Canada, asking them
 
 ------------------------------------------------------------------------
 
-## Part 2: What Feelings?
+# What Feelings?
 
 Previously, I shared how certain [client interactions](/posts/20250704.qmd) can take a toll on veterinarians’ emotions. In this post, I wanted to pivot our focus onto what veterinarians in my research had to say about their own emotions…
 
